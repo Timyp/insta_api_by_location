@@ -1,0 +1,18 @@
+.home {
+    header{
+        display: table;
+        width: 50%;
+        margin: 0 auto 50px auto;
+
+        img {
+            display: table-cell;
+            max-width: 130px;
+            text-align: right;
+        }
+
+        h1 {
+            display: table-cell;
+            vertical-align: middle;
+        }
+    }
+}
